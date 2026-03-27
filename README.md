@@ -12,6 +12,13 @@ Here are all the commands we used today:
 *Pull will take whatever is on the repo from other members*
 *Push will send your changes to the repo in the cloud*
 
+If you have any questions email Armando here:
+agbarron@ucsc.edu [School]
+armando@aptostechnology.com [Work]
+armando.g.barron1@gmail.com [Personal]
+
+Student File Changes:
+
 hi this is Sheldon
 
 hi this is toby
